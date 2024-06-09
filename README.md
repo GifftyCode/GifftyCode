@@ -25,8 +25,8 @@ I am **Uloka Ngozi Gift**, a Frontend Developer, Customer Experience Specialist,
 - Django
 - Node.js
 
-## 💞️ I'm Open to Collaborations
-Collaborations are great ways to learn, share ideas, and improve on new concepts. I collaborate with a lot of people and have never regretted any collaboration. Invite me, join me, or stay with me – we are here for collaboration.
+## 🤝 I'm Open to Collaborations
+I love working with others to bring ideas to life. Whether it's brainstorming new concepts, building cool projects, or improving existing ones, I'm excited to collaborate. If you have a project in mind or just want to chat about tech, feel free to reach out. Let's create something amazing together!
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gifftybabe)
