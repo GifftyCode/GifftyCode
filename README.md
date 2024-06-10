@@ -5,7 +5,7 @@
 # 👋 Greetings!
 I am **Uloka Ngozi Gift**, a Frontend Developer, Customer Experience Specialist, and a Statistician. Fondly called "Gifftybabe", I have a keen interest in continuous learning.
 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ile0BcO-m5Ffbw0ukHEn5tndQPbC_kiW/view)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1wS7aOKcKSSzyQ8kU-H2Qu0DIledipd9L/view?usp=drive_link)
 
 ## 👀 I am passionate about:
 - FrontEnd Engineering
