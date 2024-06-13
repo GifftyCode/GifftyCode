@@ -45,9 +45,12 @@ I love working with others to bring ideas to life. Whether it's brainstorming ne
 
 ---
 
-#### My GitHub Stats
+<!--#### My GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GifftyCode&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub streak](https://streak-stats.demolab.com?user=GifftyCode&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats)
+-->
 
+📃 **Github Stats**:
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GifftyCode&layout=compact&theme=radical)](https://github.com/GifftyCode)
 
