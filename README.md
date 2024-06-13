@@ -25,7 +25,7 @@ I am **Uloka Ngozi Gift**, a Frontend Developer, Customer Experience Specialist,
 - Django
 - Node.js
 
-  ![image](https://github.com/GifftyCode/GifftyCode/assets/122832362/b6431e93-bd7f-43a8-a6b1-2523d149b8cd)
+ ## ![image](https://github.com/GifftyCode/EseVic/assets/122832362/b6431e93-bd7f-43a8-a6b1-2523d149b8cd)
 
 ## 🤝 I'm Open to Collaborations:
 I love working with others to bring ideas to life. Whether it's brainstorming new concepts, building cool projects, or improving existing ones, I'm excited to collaborate. If you have a project in mind or just want to chat about tech, feel free to reach out. Let's create something amazing together!
