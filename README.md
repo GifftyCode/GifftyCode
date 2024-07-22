@@ -54,3 +54,23 @@ I love working with others to bring ideas to life. Whether it's brainstorming ne
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GifftyCode&layout=compact&theme=radical)](https://github.com/GifftyCode)
 
+
+### YT Videos
+
+<!-- YT-Video-LIST:START -->
+- [CallBack in JavaScript](https://youtu.be/C7udyFJY0MQ?si=00FvYzcuJIltpcRh)
+- [Simple TODO list for beginners](https://youtu.be/Ju2dB4LMB5U?si=7P8U6XZEXVUh7oMj)
+- [What Motivated me to Frontend Development](https://youtu.be/nDBnoAhUiwE?si=-G5NZsSgG7DKuJmZ)
+<!-- - [Advice For Computer Science Students!](https://www.youtube.com/watch?v=OKXsaiwjx5M) -->
+<!-- YT-Video-LIST:END -->
+
+---
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building a Search Engine from Scratch in JavaScript](https://medium.com/@gifftybabe/building-a-search-engine-from-scratch-in-javascript-7fcc138b9f9c)
+- [Embracing the Magic of Tailwind CSS: A Beginner’s Journey](https://medium.com/@gifftybabe/embracing-the-magic-of-tailwind-css-a-beginners-journey-e9a5e16e9bc2)
+- [Understanding Local Storage](https://gifftybabe.hashnode.dev/understanding-local-storage-your-guide-to-storing-data-in-your-browser)
+- [Designing a Striking GitHub Profile](https://gifftybabe.hashnode.dev/designing-a-striking-github-profile-a-comprehensive-guide)
+<!-- BLOG-POST-LIST:END -->
