@@ -1,25 +1,17 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Uloka+Ngozi+Gift;Full+Stack+Developer;Building+Scalable+%26+User-Focused+Applications;Always+Learning+%7C+Always+Improving" />
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=GifftyCode&color=blueviolet&style=flat" />
-</p>
-
----
 
 # 👋 Hi, I'm Uloka Ngozi Gift
 
 💻 Full Stack Developer | 🤝 Customer Experience Specialist | 🎓 AI/ML Graduate (In View)
 
 I design and build scalable, user-focused web applications using modern JavaScript technologies across the stack.
-Currently working as a **Junior Developer**, while continuously improving my backend and system design skills.
+Currently working as a **Frontend Developer**, while continuously improving my backend and system design skills.
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Working as a **Junior Developer**
+* 💼 Working as a **Frontend Developer**
 * 🌱 Expanding expertise in **full-stack JavaScript (MERN)**
 * 🎓 Pursuing a **Master’s degree in AI/ML at Miva Open University**
 * 💡 Passionate about building **efficient, scalable, and user-friendly applications**
@@ -84,8 +76,7 @@ Built with a focus on **performance, responsiveness, and clean UI design**.
 
 ### 📝 Todo App
 
-🔗 (Add your live link)
-💻 (Add GitHub repo link)
+
 
 A task management application with full CRUD functionality.
 Demonstrates **JavaScript logic, state handling, and dynamic UI updates**.
@@ -94,8 +85,7 @@ Demonstrates **JavaScript logic, state handling, and dynamic UI updates**.
 
 ### 🔍 Search Engine Project
 
-🔗 (Add live link if available)
-💻 (Add GitHub repo link)
+
 
 A custom search engine built from scratch using JavaScript.
 Focused on **data structures, search logic, and performance optimization**.
@@ -117,6 +107,8 @@ Focused on **data structures, search logic, and performance optimization**.
 I’m currently open to:
 
 * Full Stack Developer Roles
+* Frontend Developer Roles
+* Backend Developer Roles
 * Freelance Projects
 * Open Source Collaborations
 
