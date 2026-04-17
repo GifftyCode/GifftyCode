@@ -58,6 +58,66 @@ I am **Uloka Ngozi Gift**, a Frontend Developer, Customer Experience Specialist,
 </p>
 
 
+## 🚀 Tech Stack & Tools
+
+### 🎨 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,python,django&perline=6" />
+</p>
+
+### 🛠️ Tools & Design
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=6" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GifftyCode&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=GifftyCode&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GifftyCode&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GifftyCode&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## ✨ Animated Touch
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F72585&center=true&vCenter=true&lines=Frontend+Developer;Backend+Learner;Open+Source+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gifftybabe"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://twitter.com/Gifftybabe"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="mailto:ulokangozi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+
 
 ## 🤝 I'm Open to Collaborations:
 I love working with others to bring ideas to life. Whether it's brainstorming new concepts, building cool projects, or improving existing ones, I'm excited to collaborate. If you have a project in mind or just want to chat about tech, feel free to reach out. Let's create something amazing together!
