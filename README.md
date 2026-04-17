@@ -56,9 +56,34 @@ I build responsive, user-friendly web applications and continuously expand my sk
 
 ## 🧩 Featured Projects
 
-* 🔗 **Portfolio Website** – Personal portfolio showcasing my work
-* 🔗 **Todo App** – Task management app built with JavaScript
-* 🔗 **Search Engine Project** – Built from scratch in JavaScript
+### 🚀 Portfolio Website
+
+🔗 https://hire-uloka-ngozi.vercel.app/
+💻 https://github.com/GifftyCode
+
+A personal portfolio built to showcase my projects, skills, and growth as a developer.
+Designed with a focus on **clean UI, responsiveness, and accessibility**.
+
+---
+
+### 📝 Todo App
+
+🔗 (Add your live link here)
+💻 (Add GitHub repo link)
+
+A task management application that allows users to create, update, and delete tasks.
+Built to strengthen my understanding of **JavaScript logic, DOM manipulation, and state handling**.
+
+---
+
+### 🔍 Search Engine Project
+
+🔗 (Add live link if available)
+💻 (Add GitHub repo link)
+
+A custom-built search engine created from scratch using JavaScript.
+Focused on implementing **search algorithms, data handling, and performance optimization**.
+
 
 ---
 
